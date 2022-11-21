@@ -1,10 +1,12 @@
+Author: Suhasini Tatipalli
+
 # House-Prices-Prediction
 
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
-Predicting sales prices 
+Business Problem: Predicting sales prices 
 
 Cleaning the data involved creating an informative print report, viewing where my missing values for respective collumns were, and verifying there weren't any duplicates.
 I then decided to explore feature engineering techniques Combining all area/Sqft columns, dropping and replacing with a "TotalArea"/"TotalSqft" column.
